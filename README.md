@@ -68,7 +68,7 @@ This dataset is not owned by the project author and is subject to its own licens
 
 ## Contributors
 
-- [Your Name](https://github.com/Neecrownsmith) - Project Creator and Data Analyst
+- [Fajemisin Adeniyi](https://github.com/Neecrownsmith) - Project Creator and Data Analyst
 
 ## Feedback and Contributions
 
